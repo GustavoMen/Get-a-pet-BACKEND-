@@ -3,7 +3,7 @@
 # Get a Pet
 
 Um site para adotar Pets, fiz esse projeto com intuito de colocar em pratica oque aprendi, Meus maiores ensinamentos com este projeto foram:
-<li> Arquitetura MVC
+<li> Noção de fluxo de informaçôes
 <li> Sistema de login/register 
 <li>Autenticação de Usuario
 <li> CRUD With MongoDB
